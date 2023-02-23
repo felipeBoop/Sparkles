@@ -2,4 +2,4 @@
 
 <h3 align="center">Projeto realizado em lua utilizando o framework LÖVE2D</h3>
 
-<p align="center">🎮 Projeto realizado para a game jam da aula de Principioos de desenvolvimento de jogos digitais I</p>
+<p align="center">🎮 realizado para a game jam da aula de Principios de desenvolvimento de jogos digitais I</p>
